@@ -11,7 +11,7 @@ O objetivo central desta etapa do projeto é estruturar as telas principais do a
 
 ## O que Contém o Projeto
 
-Nesta versão do protótipo, foram implementados os seguintes pilares e entregáveis fundamentais:
+Nesta versão do protótipo, foram implementados os seguintes pilares e entregáveis:
 
 ### 1. Telas Principais Navegáveis
 * **Mapa de Pontos de Recarga:** Um radar de energia interativo que mostra a localização das estações de recarga mais próximas e seu status de ocupação em tempo real.
