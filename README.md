@@ -22,15 +22,12 @@ Nesta versão do protótipo, foram implementados os seguintes pilares e entregá
 
 ### 2. Identidade Visual Aplicada
 * **Tipografia:** Aplicação obrigatória da família tipográfica Outfit.
-* **Tom Visual:** Interface limpa, minimalista e focada em reduzir a carga cognitiva do condutor durante o trânsito.
+* **Tom Visual:** Interface limpa, minimalista e focada em reduzir a carga do usuário.
 
 ### 3. Navegação Funcional e Interativa
 O protótipo é completamente navegável, mapas, buscas, fichas de detalhes, status de bateria e telas de gamificação.
 
 ### 4. Dados Simulados
 Todas as informações de pontos de recarga, localizações, preços por kWh, distâncias e pontuações do leaderboard são simuladas.
-
-## Link do Protótipo Navegável
-Acesse e interaja com o protótipo de alta fidelidade desenvolvido no Figma através do link abaixo:
 
 Protótipo Navegável Flui - Figma https://drink-gaming-38126939.figma.site
